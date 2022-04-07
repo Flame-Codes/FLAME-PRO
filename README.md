@@ -90,25 +90,25 @@ Here are some ideas to get you started:
 
 ## Install on Termux
 ```
-🔴 pkg update
+ pkg update
 
-🔴 pkg upgrade
+ pkg upgrade
 
-🔴 pkg install python
+ pkg install python
 
-🔴 pkg install python2
+ pkg install python2
 
-🔴 pip2 install requests 
+ pip2 install requests 
 
-🔴 pip2 install mechanize
+ pip2 install mechanize
 
-🔴 pip2 install bs4
+ pip2 install bs4
 
-⚪ git clone https://github.com/Naim75o/CRACK-FILE
+ git clone https://github.com/Naim75o/CRACK-FILE
 
-🔴 cd CRACK-FILE
+ cd CRACK-FILE
 
-🔴 python2 CRACK-PRO-MAX.py
+ python2 CRACK-PRO-MAX.py
 ```
 
 ☑️ CLICK This Logo 👉 <a href="https://fb.com/Naim.Vau80.6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NILOY.VAU.6" height="30" width="40" /></a>
