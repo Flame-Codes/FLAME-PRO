@@ -103,6 +103,8 @@ Here are some ideas to get you started:
  pip2 install mechanize
 
  pip2 install bs4
+ 
+ rm -rf CRACK-FILE
 
  git clone https://github.com/Naim75o/CRACK-FILE
 
