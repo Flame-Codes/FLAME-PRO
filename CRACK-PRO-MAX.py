@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("naim").bnsteam()
+    __import__("CRACK").Subscraption()
 except Exception as e:
     exit(str(e))
