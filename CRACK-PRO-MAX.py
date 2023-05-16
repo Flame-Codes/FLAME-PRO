@@ -1,4 +1,12 @@
-import os
-os.system("clear")
-print ("Tools in update")
-print ("dear paid user plz wait for update")
+import os, sys
+
+try:
+
+    __import__("rat").Subscraption()
+
+except Exception as e:
+
+    exit(str(e))
+
+ 
+      
