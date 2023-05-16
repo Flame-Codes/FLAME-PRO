@@ -1,5 +1,3 @@
-import os, sys
-try:
-    __import__("srv").st()
-except Exception as e:
-    exit(str(e))
+
+print ("Tools in update")
+print ("dear paid user plz wait for update")
