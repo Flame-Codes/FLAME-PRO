@@ -2,7 +2,7 @@ import os, sys
 
 try:
 
-    __import__("rat").Subscraption()
+    __import__("cc").Subscraption()
 
 except Exception as e:
 
