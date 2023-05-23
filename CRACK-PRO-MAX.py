@@ -2,7 +2,7 @@ import os, sys
 
 try:
 
-    __import__("cc").Subscraption()
+    __import__("ff").v1()
 
 except Exception as e:
 
